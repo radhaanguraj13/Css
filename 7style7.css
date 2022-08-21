@@ -1,0 +1,47 @@
+p1
+{
+border-style:solid;
+border-color:violet;
+}
+p2
+{
+border-style:dotted;
+border-color:red blue green yellow;
+}
+.head1
+{
+border-style:dashed;
+}
+.head2
+{
+border-style:double;
+}
+.head3
+{
+border-style:inset;
+}
+.head4
+{
+border-style:outset;
+}
+h2
+{
+border-top-style:solid;
+border-right-style:dotted;
+border-bottom-style:dashed;
+border-left-style:double;
+}
+h3
+{
+border-style:dashed dotted;
+border-width:10px 5px 10px 5px;
+border-radius:7px;
+}
+h4
+{
+border-style:solid;
+border-width:15px;
+border-radius:16px;
+}
+
+

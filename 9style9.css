@@ -1,0 +1,29 @@
+a
+{
+text-decoration:none;
+color:black;
+font-size:23px;
+}
+.button1
+{
+background-color:blue;
+padding:15px 20px;
+}
+.button1:hover
+{
+background-color:yellow;
+color:white;
+}
+.button2
+{
+border:1px solid green;
+
+padding:15px 100px;
+border-radius:25px;
+}
+.button2:hover
+{
+background-color:green;
+color:white;
+}
+

@@ -1,0 +1,21 @@
+                                <!-- 2.background-image full screen --> 
+body
+{
+background-image:url("image/img1.jpg"); 
+                               <!-- 3. background-repeat -->
+                     <!-- 3types background-repeat:repeat-x,y,no-repeat -->
+background-repeat:repeat-x;
+                               <!-- 4. background position -->
+background-position:right top ;
+                                <!-- 5. background attachment -->
+                         <!--  background attachment 1.fixed 2.scroll -->
+background-attachment:fixed;
+}
+h1
+{
+background-color:#ff0000;
+}
+h2
+{
+background-color:rgb(0,0,255);
+}
